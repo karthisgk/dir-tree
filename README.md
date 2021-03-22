@@ -1,5 +1,7 @@
 # DIR Tree
 
+![DIR Tree example](https://raw.githubusercontent.com/karthisgk/satti-table/master/projects/satti-table-example/src/assets/ex1.png)
+
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="../src/js/satti-dir-tree.js"></script>
