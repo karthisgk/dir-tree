@@ -2,11 +2,13 @@
 
 ![DIR Tree example](https://github.com/karthisgk/dir-tree/blob/main/assets/screenshot1.png?raw=true)
 
+HTML:
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="../src/js/satti-dir-tree.js"></script>
 ```
 
+JAVA-SCRIPT
 ```javascript
 let data = [
     {
@@ -77,4 +79,4 @@ $(document).ready(async function(){
 - `data`: object array contains "(_id, name, children)"
 - `addChild`: function that returns "_id"
 - `edit`: function that returns "_id"
-- 'delete': function that returns "_id"
+- `delete`: function that returns "_id"
