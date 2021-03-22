@@ -78,5 +78,6 @@ $(document).ready(async function(){
 - `multipleDelete`: boolean true or false
 - `data`: object array contains "(_id, name, children)"
 - `addChild`: function that returns "_id"
+- `expandCollapseAnimationDuration`: number, default 100
 - `edit`: function that returns "_id"
 - `delete`: function that returns "_id"
