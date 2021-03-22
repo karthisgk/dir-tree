@@ -4,8 +4,8 @@
 
 HTML:
 ```html
-<script src="./jquery.min.js"></script>
-<script src="../src/js/satti-dir-tree.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/satti-dir-tree.js"></script>
 ```
 
 JAVA-SCRIPT
