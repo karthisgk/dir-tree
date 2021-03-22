@@ -1,6 +1,6 @@
 # DIR Tree
 
-![DIR Tree example](https://raw.githubusercontent.com/karthisgk/satti-table/master/projects/satti-table-example/src/assets/ex1.png)
+![DIR Tree example](https://github.com/karthisgk/dir-tree/blob/main/assets/screenshot1.png?raw=true)
 
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
